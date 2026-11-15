@@ -1,0 +1,11 @@
+# Сборочные директории
+bin/
+obj/
+
+.vs/
+*.user
+*.suo
+.idea/
+
+.DS_Store
+Thumbs.db
